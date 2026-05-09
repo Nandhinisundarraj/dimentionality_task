@@ -1,6 +1,7 @@
 This project demonstrates the implementation of two popular dimensionality reduction techniques:
     Principal Component Analysis (PCA)
     t-distributed Stochastic Neighbor Embedding (t-SNE)
+    
 The main objective is to reduce high-dimensional data into lower dimensions while preserving important information for visualization and analysis.
 The project uses the Wine Quality dataset and applies preprocessing, dimensionality reduction, visualization, and classification techniques to compare the effectiveness of PCA and t-SNE.
 
